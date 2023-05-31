@@ -59,6 +59,6 @@ while True:
         play_game()
     elif user_input == "no":
         print("Okay. Goodbye!")
-        exit()
+        break
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
